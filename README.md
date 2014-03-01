@@ -7,3 +7,14 @@ Week 2
 ------
 ActivityLab
 
+Week 3
+------
+IntentsLab
+MyBrowser
+PermissionsLab
+DangerousApp
+
+Week 4
+------
+UILabs
+
