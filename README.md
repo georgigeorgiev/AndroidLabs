@@ -10,9 +10,13 @@ ActivityLab
 Week 3
 ------
 IntentsLab
+
 MyBrowser
+
 PermissionsLab
+
 DangerousApp
+
 
 Week 4
 ------
